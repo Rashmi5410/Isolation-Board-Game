@@ -1,0 +1,13 @@
+C:\Users\Jade5\Desktop\BME121\ProgrammingAssignments\Isolation\bin\Debug\netcoreapp3.1\Isolation.exe
+C:\Users\Jade5\Desktop\BME121\ProgrammingAssignments\Isolation\bin\Debug\netcoreapp3.1\Isolation.deps.json
+C:\Users\Jade5\Desktop\BME121\ProgrammingAssignments\Isolation\bin\Debug\netcoreapp3.1\Isolation.runtimeconfig.json
+C:\Users\Jade5\Desktop\BME121\ProgrammingAssignments\Isolation\bin\Debug\netcoreapp3.1\Isolation.runtimeconfig.dev.json
+C:\Users\Jade5\Desktop\BME121\ProgrammingAssignments\Isolation\bin\Debug\netcoreapp3.1\Isolation.dll
+C:\Users\Jade5\Desktop\BME121\ProgrammingAssignments\Isolation\bin\Debug\netcoreapp3.1\Isolation.pdb
+C:\Users\Jade5\Desktop\BME121\ProgrammingAssignments\Isolation\obj\Debug\netcoreapp3.1\Isolation.csprojAssemblyReference.cache
+C:\Users\Jade5\Desktop\BME121\ProgrammingAssignments\Isolation\obj\Debug\netcoreapp3.1\Isolation.AssemblyInfoInputs.cache
+C:\Users\Jade5\Desktop\BME121\ProgrammingAssignments\Isolation\obj\Debug\netcoreapp3.1\Isolation.AssemblyInfo.cs
+C:\Users\Jade5\Desktop\BME121\ProgrammingAssignments\Isolation\obj\Debug\netcoreapp3.1\Isolation.csproj.CoreCompileInputs.cache
+C:\Users\Jade5\Desktop\BME121\ProgrammingAssignments\Isolation\obj\Debug\netcoreapp3.1\Isolation.dll
+C:\Users\Jade5\Desktop\BME121\ProgrammingAssignments\Isolation\obj\Debug\netcoreapp3.1\Isolation.pdb
+C:\Users\Jade5\Desktop\BME121\ProgrammingAssignments\Isolation\obj\Debug\netcoreapp3.1\Isolation.genruntimeconfig.cache
